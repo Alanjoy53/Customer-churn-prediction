@@ -1,0 +1,14 @@
+# Python files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data (DO NOT UPLOAD YOUR DATASET)
+*.csv
+
+# Environment files
+.venv
