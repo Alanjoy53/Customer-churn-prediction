@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project implements a complete machine learning pipeline to predict customer churn. The goal is to build a model that can accurately identify customers at high risk of leaving the service. By identifying these customers, the business can take proactive measures, such as offering special discounts or incentives, to retain them.
 
@@ -136,3 +136,4 @@ The project is divided into several files:
 
 
 jupyter notebook
+
