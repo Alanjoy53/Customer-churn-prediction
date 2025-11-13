@@ -63,7 +63,7 @@ The dataset used for this project is the **Telco Customer Churn** dataset, origi
 
 ---
 
-## 🛠️ Methodology
+##  Methodology
 
 The project was structured in several key phases:
 
@@ -104,7 +104,7 @@ The final model (Random Forest) can effectively identify customers at high risk 
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 To run this project locally, please follow these steps.
 
@@ -136,4 +136,5 @@ The project is divided into several files:
 
 
 jupyter notebook
+
 
